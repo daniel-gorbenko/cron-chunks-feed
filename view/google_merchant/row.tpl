@@ -1,0 +1,1 @@
+{title}{del}{condition}{del}{brand}{del}{mpn}{del}{gtin}{del}{shipping}{del}{google_product_category}{del}{product_type}{del}{price}{del}{sale_price}{del}{link}{del}{mobile_link}{del}{image_link}{del}{additional_image_link}{del}{id}{del}{description}{del}{payment_accepted}{del}{payment_notes}{del}{availability}{del}{tax}{del}{age_group}{del}{color}{del}{gender}{del}{size}
